@@ -211,3 +211,9 @@ class ExampleModule(Core):
     def postprocess(self, data: Any) -> Any:
         # Do some postprocessing work
 ```
+
+### Known Plugins
+
++ [QUARK-plugin-myqlm](https://github.com/srmaschek/QUARK-plugin-myqlm)
+  + provider: science-computing ag
+  + description: Provides access to the myQLM QPU simulators.
